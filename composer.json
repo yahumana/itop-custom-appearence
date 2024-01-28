@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Company\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "company/appearance",
+  "type": "itop-extension",
+  "description": "Appearance-extension",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}
