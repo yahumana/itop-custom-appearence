@@ -3191,8 +3191,8 @@ AABJRU5ErkJggg==
   <menus>
   </menus>
    <branding>
-	  <main_logo_compact _delta="define">appearance/assets/img/logo.png</main_logo_compact>
-	 <main_logo _delta="define">appearance/assets/img/logo.png</main_logo>
+	  <main_logo_compact _delta="define">itop-custom-appearance/assets/img/logo.png</main_logo_compact>
+	 <main_logo _delta="define">itop-custom-appearance/assets/img/logo.png</main_logo>
     <login_logo _delta="define">
       <fileref ref="custom-logo"/>
     </login_logo>
