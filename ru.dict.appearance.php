@@ -8,6 +8,7 @@
 
 Dict::Add('RU RU', 'Russian', 'Russian', array(
 	'UI:DetailsPageTitle' => 'Название компании - %2$s: %1$s',
-	'UI:DefaultTitle' => 'Название компании',
+	'entryPage:DefaultTitle' => 'Название компании',
+    'UI:Modify_ObjectsOf_Class' => ' Название компании',
 ));
 ?>
